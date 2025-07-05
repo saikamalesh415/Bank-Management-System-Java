@@ -35,3 +35,8 @@ This project simulates basic banking operations like account creation, deposit, 
 1. Clone the repository:
    ```bash
    git clone https://github.com/saikamalesh415/Bank-Management-System-Java.git
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
